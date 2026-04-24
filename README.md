@@ -45,7 +45,7 @@ This project performs end-to-end analysis of IPL (Indian Premier League) cricket
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 
@@ -53,15 +53,15 @@ This project performs end-to-end analysis of IPL (Indian Premier League) cricket
 
 ### 🔹 Top Batsmen
 
-![Top Batsmen](images/top_batsmen.png)
+![Top Batsmen](Images/top_batsmen.png)
 
 ### 🔹 Top Bowlers
 
-![Top Bowlers](images/top_bowlers.png)
+![Top Bowlers](Images/top_bowlers.png)
 
 ### 🔹 Team Wins
 
-![Team Wins](images/team_wins.png)
+![Team Wins](Images/team_wins.png)
 
 ---
 
